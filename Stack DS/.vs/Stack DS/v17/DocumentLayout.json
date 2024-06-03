@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\Stack DS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393DC6DD-E475-4371-ADBF-52145D185DD8}|Stack DS\\Stack DS.vcxproj|E:\\Data Structure\\Stack DS\\Stack DS\\Stack DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393DC6DD-E475-4371-ADBF-52145D185DD8}|Stack DS\\Stack DS.vcxproj|solutionrelative:Stack DS\\Stack DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack DS.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\Stack DS\\Stack DS\\Stack DS.cpp",
+              "RelativeDocumentMoniker": "Stack DS\\Stack DS.cpp",
+              "ToolTip": "E:\\Data Structure\\Stack DS\\Stack DS\\Stack DS.cpp",
+              "RelativeToolTip": "Stack DS\\Stack DS.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-11T18:38:07.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

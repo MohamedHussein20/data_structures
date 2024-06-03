@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\Infix \u0026 Postfix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A5534F-2B09-42AA-A8E0-0D0B293446F0}|Infix \u0026 Postfix\\Infix \u0026 Postfix.vcxproj|E:\\Data Structure\\Infix \u0026 Postfix\\Infix \u0026 Postfix\\Infix \u0026 Postfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41A5534F-2B09-42AA-A8E0-0D0B293446F0}|Infix \u0026 Postfix\\Infix \u0026 Postfix.vcxproj|solutionrelative:Infix \u0026 Postfix\\Infix \u0026 Postfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infix \u0026 Postfix.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\Infix \u0026 Postfix\\Infix \u0026 Postfix\\Infix \u0026 Postfix.cpp",
+              "RelativeDocumentMoniker": "Infix \u0026 Postfix\\Infix \u0026 Postfix.cpp",
+              "ToolTip": "E:\\Data Structure\\Infix \u0026 Postfix\\Infix \u0026 Postfix\\Infix \u0026 Postfix.cpp",
+              "RelativeToolTip": "Infix \u0026 Postfix\\Infix \u0026 Postfix.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T15:51:52.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

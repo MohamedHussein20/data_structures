@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\DecToBin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16E90E6-A9D6-4A95-BE55-98376771E695}|DecToBin\\DecToBin.vcxproj|E:\\Data Structure\\DecToBin\\DecToBin\\DecToBin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A16E90E6-A9D6-4A95-BE55-98376771E695}|DecToBin\\DecToBin.vcxproj|solutionrelative:DecToBin\\DecToBin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DecToBin.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\DecToBin\\DecToBin\\DecToBin.cpp",
+              "RelativeDocumentMoniker": "DecToBin\\DecToBin.cpp",
+              "ToolTip": "E:\\Data Structure\\DecToBin\\DecToBin\\DecToBin.cpp*",
+              "RelativeToolTip": "DecToBin\\DecToBin.cpp*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T06:20:28.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

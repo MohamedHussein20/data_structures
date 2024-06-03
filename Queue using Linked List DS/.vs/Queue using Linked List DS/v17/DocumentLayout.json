@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\Queue using Linked List DS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263A1442-87FA-4E09-96CB-A80AB20506A8}|Queue using Linked List DS\\Queue using Linked List DS.vcxproj|E:\\Data Structure\\Queue using Linked List DS\\Queue using Linked List DS\\Queue using Linked List DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{263A1442-87FA-4E09-96CB-A80AB20506A8}|Queue using Linked List DS\\Queue using Linked List DS.vcxproj|solutionrelative:Queue using Linked List DS\\Queue using Linked List DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue using Linked List DS.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\Queue using Linked List DS\\Queue using Linked List DS\\Queue using Linked List DS.cpp",
+              "RelativeDocumentMoniker": "Queue using Linked List DS\\Queue using Linked List DS.cpp",
+              "ToolTip": "E:\\Data Structure\\Queue using Linked List DS\\Queue using Linked List DS\\Queue using Linked List DS.cpp",
+              "RelativeToolTip": "Queue using Linked List DS\\Queue using Linked List DS.cpp",
+              "ViewState": "AQIAAIoAAAAAAAAAAADgv5EAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-22T21:28:46.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

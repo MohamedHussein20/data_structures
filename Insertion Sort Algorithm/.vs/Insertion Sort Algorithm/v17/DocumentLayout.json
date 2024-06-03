@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\Insertion Sort Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087F1ACB-142D-450B-909F-E65698ED7C76}|Insertion Sort Algorithm\\Insertion Sort Algorithm.vcxproj|E:\\Data Structure\\Insertion Sort Algorithm\\Insertion Sort Algorithm\\Insertion Sort Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087F1ACB-142D-450B-909F-E65698ED7C76}|Insertion Sort Algorithm\\Insertion Sort Algorithm.vcxproj|solutionrelative:Insertion Sort Algorithm\\Insertion Sort Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insertion Sort Algorithm.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\Insertion Sort Algorithm\\Insertion Sort Algorithm\\Insertion Sort Algorithm.cpp",
+              "RelativeDocumentMoniker": "Insertion Sort Algorithm\\Insertion Sort Algorithm.cpp",
+              "ToolTip": "E:\\Data Structure\\Insertion Sort Algorithm\\Insertion Sort Algorithm\\Insertion Sort Algorithm.cpp",
+              "RelativeToolTip": "Insertion Sort Algorithm\\Insertion Sort Algorithm.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-21T17:09:41.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\Queue DS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD1991B-6682-47FB-8FE6-7AFDC2FB04D2}|Queue DS\\Queue DS.vcxproj|E:\\Data Structure\\Queue DS\\Queue DS\\Queue DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBD1991B-6682-47FB-8FE6-7AFDC2FB04D2}|Queue DS\\Queue DS.vcxproj|solutionrelative:Queue DS\\Queue DS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue DS.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\Queue DS\\Queue DS\\Queue DS.cpp",
+              "RelativeDocumentMoniker": "Queue DS\\Queue DS.cpp",
+              "ToolTip": "E:\\Data Structure\\Queue DS\\Queue DS\\Queue DS.cpp",
+              "RelativeToolTip": "Queue DS\\Queue DS.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T10:35:46.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

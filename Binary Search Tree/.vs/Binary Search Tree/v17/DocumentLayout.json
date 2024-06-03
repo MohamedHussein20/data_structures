@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Structure\\Binary Search Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B2B427-10A7-4FC3-B25F-7ECBE2BFD2DC}|Binary Search Tree\\Binary Search Tree.vcxproj|E:\\Data Structure\\Binary Search Tree\\Binary Search Tree\\Binary Search Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B2B427-10A7-4FC3-B25F-7ECBE2BFD2DC}|Binary Search Tree\\Binary Search Tree.vcxproj|solutionrelative:Binary Search Tree\\Binary Search Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary Search Tree.cpp",
+              "DocumentMoniker": "E:\\Data Structure\\Binary Search Tree\\Binary Search Tree\\Binary Search Tree.cpp",
+              "RelativeDocumentMoniker": "Binary Search Tree\\Binary Search Tree.cpp",
+              "ToolTip": "E:\\Data Structure\\Binary Search Tree\\Binary Search Tree\\Binary Search Tree.cpp",
+              "RelativeToolTip": "Binary Search Tree\\Binary Search Tree.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAANUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-06-26T19:20:52.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
