@@ -1,71 +1,60 @@
 #include <iostream>
 #include<stack>
 #include<string>
-using namespace std; 
+using namespace std;
 bool isValid(string s) {
-        stack<char> st ;
-        for (int i = 0 ;  i< s.length() ; i++)
+    stack<char> st;
+    for (int i = 0; i < s.length(); i++)
+    {
+        char ch = s[i];
+
+
+        if (ch == '(' || ch == '{' || ch == '[')
         {
-            char ch = s[i];
+            st.push(ch);
+        }
 
+        else {
 
-            if (ch == '(' || ch == '{' || ch == '[')
+            if (!st.empty())
             {
-                st.push(ch) ;
-            }
-
-            else {
-
-                if (!st.empty())
+                char top = st.top();
+                if ((ch == ')' && top == '(') ||
+                    (ch == '}' && top == '{') ||
+                    (ch == ']' && top == '['))
                 {
-                    char top = st.top() ;
-                    if ((ch == ')' && top == '(') ||
-                        (ch == '}' && top == '{') ||
-                        (ch == ']' && top == '['))
-                        {
 
-                            st.pop() ;
-                        }
-                        else
-                        {
-                            return false ;
-                        }
+                    st.pop();
                 }
                 else
                 {
-
-                    return false ;
+                    return false;
                 }
             }
-        }
+            else
+            {
 
-
-        if (st.empty())
-        {
-            return true ;
+                return false;
+            }
         }
-        return false ;
     }
-
-
     if (st.empty())
     {
         return true;
     }
     return false;
-  }
 }
 int main()
 {
-	string s;
-	cin >> s;
-	if (isValid(s))
-	{
-		cout << "Balanced" << endl;
-	}
-	else
-	{
-		cout << "Not Balanced" << endl;
-	}
-	return 0;
+    string s;
+    cin >> s;
+    if (isValid(s))
+    {
+        cout << "Balanced" << endl;
+    }
+    else
+    {
+        cout << "Not Balanced" << endl;
+    }
+    return 0;
 }
